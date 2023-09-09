@@ -23,13 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](/order-summary-component/screenshots/desktop.png)
-![](/order-summary-component/screenshots/mobile.png)
+![](/screenshots/desktop.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-order-summary-component-using-css-flexbox-W8JY4J9jHd](https://www.frontendmentor.io/solutions/responsive-order-summary-component-using-css-flexbox-W8JY4J9jHd)
+- Live Site URL: [https://capable-squirrel-c2ec6b.netlify.app/](https://capable-squirrel-c2ec6b.netlify.app/)
 
 ## My process
 
